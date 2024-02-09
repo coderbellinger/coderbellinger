@@ -2,12 +2,13 @@
 ## Work Experience
 I am currently serving as a Watershed Stewards Program Corpsmember and am placed at the North Coast Regional Water Quality Control Board until August of 2024. Before this term, I worked through high school and college in food service, construction, and education. I am hoping to develop my programming skills and contribute my talents to the environmental and ecological industries as a programmer or consultant. 
 ## Education
-I graduated with a B.S. in Statistics and Data Science from the University of California Los Angeles where I recieved a foudational education in statistical computation, machine learning methods, and story telling. I plan on attending Sonoma State University in the spring of 2025 and be integral to the Estuarine Marine Protected Area through Brent Hughes's Coastal Ecology and Conservation lab.
+I graduated with a B.S. in Statistics and Data Science from the University of California Los Angeles in 2023 where I recieved a foudational education in statistical computation, machine learning methods, and story telling. I plan on attending Sonoma State University in the spring of 2025 and be integral to the Estuarine Marine Protected Area through Brent Hughes's Coastal Ecology and Conservation lab.
 ## Interests
 I have always been interested in sports; I love the dramatic events between rivalries and the lore behind athletes' battles with themselves. I played soccer and ran mid-distance events growing up and in high school, but I am a fan of all sports. I currently love to snowboard, climb, and backpack. I like to fiddle on the guitar and cook when I have free time. 
 ## Background
 I grew up in Southern California in a town called Littlerock. My parents are immigrants from Mexico, and they had four boys; I am the fourth. I am an advocate for accessible education and for the recognition of men's mental health issues. 
-
+## GitHub
+My goal with GitHub is to display my talents and share basic lessons with people who are interested in Data Analytics. More specifically, I want to add R Programming lessons for my friends in the environmental field. 
 
 <!--
 **coderbellinger/coderbellinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
